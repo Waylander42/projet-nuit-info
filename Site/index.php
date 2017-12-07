@@ -1,12 +1,6 @@
-<html>
-	<head>
-		<title>ACCUEIL</title>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, shrink-to-fit=no, initial-scale=1">
-        <link href="css/bootstrap.min.css" rel="stylesheet">
-        <link href="css/style.css" rel="stylesheet">
-	</head>
+<?php 
+    include('header.php')
+?>
 	<body>
 		<div id="site">
 			<div id="banner1">
@@ -21,9 +15,9 @@
                      </ul>
                  </nav>
               </div>
-			<div id="footer">
-				<p>Moi-même | Tous droits réservés</p>
-			</div>
 		</div>
 	</body>
 </html>
+<?php
+    include('footer.php');
+?>
