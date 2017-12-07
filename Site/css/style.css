@@ -1,0 +1,17 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+#sidebar{
+    position:fixed;
+    left: 0;
+    top: 10;
+    bottom: 0;
+}
+
+#footer{
+    position:absolute;
+    bottom: 0;
+}
+ 
