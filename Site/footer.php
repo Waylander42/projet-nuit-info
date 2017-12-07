@@ -1,3 +1,3 @@
-<div id="footer">
-    <p>Moi-même | Tous droits réservés</p>
+<div id="footer" class="centrer">
+    <p>Pères cafards | Tous droits réservés</p>
 </div>

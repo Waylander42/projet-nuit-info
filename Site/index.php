@@ -3,7 +3,7 @@
 ?>
 	<body>
 		<div id="site">
-			<div id="banner1">
+			<div id="title">
 				<p>TEST.COM</p>
 			</div>
               <div id="page">
